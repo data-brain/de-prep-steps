@@ -2,7 +2,7 @@
 
 ## 1
 
-- Use the command `echo` to print a message `hello <your-name>` to the terminal.
+- Use the command `echo` to print a message `hello lewis` to the terminal.
 
 ## 2
 
@@ -40,7 +40,7 @@
 
 - What is happening when you run the command `cd ..`?
 
->Bonus: what about when you run `cd ...`?
+> Bonus: what about when you run `cd ...`?
 
 ## 9
 
